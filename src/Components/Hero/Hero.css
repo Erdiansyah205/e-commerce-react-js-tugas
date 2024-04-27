@@ -15,6 +15,12 @@
   line-height: 1.1;
 }
 
+.hero-right {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
 .hero-left h2 {
   color: #090909;
   font-size: 26px;
@@ -25,6 +31,7 @@
   color: #171717;
   font-size: 100px;
   font-weight: 700;
+  text-align: left;
 }
 
 .hero-hand-icon {
