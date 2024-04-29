@@ -3,7 +3,7 @@
 }
 
 .item p {
-    max-width: 6px 0px;
+    margin: 6px 0px;
 }
 
 .item-prices {
@@ -14,7 +14,7 @@
 .item-price-new {
     color: #374151;
     font-size: 18px;
-    font: 600;
+    font-weight: 600;
 }
 
 .item-price-old {
