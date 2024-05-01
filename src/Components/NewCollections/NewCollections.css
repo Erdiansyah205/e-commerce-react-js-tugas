@@ -1,17 +1,18 @@
-.new-colections {
+.new-collections {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 10px;
+  height: 90vh;
 }
 
-.new-colections h1 {
+.new-collections h1 {
   color: #171717;
   font-size: 50px;
   font-weight: 600;
 }
 
-.new-colections hr {
+.new-collections hr {
   width: 200px;
   height: 6px;
   border-radius: 10px;
@@ -21,9 +22,8 @@
 .collections {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  padding-left: 100px;
   margin-top: 50px;
-  gap: 10px;
+  gap: 30px;
 }
 
 @media (max-width: 1280px) {

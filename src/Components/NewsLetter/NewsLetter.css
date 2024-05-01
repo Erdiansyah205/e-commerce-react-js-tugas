@@ -7,10 +7,9 @@
   justify-content: center;
   margin: auto;
   padding: 0px 140px;
-  margin-bottom: 150px;
   background: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%);
   gap: 30px;
-  margin-top: 100px;
+  margin-top: 300px;
 }
 
 .newsletter h1 {
@@ -53,4 +52,8 @@
     color: white;
     font-size: 16px;
     cursor: pointer;
+}
+
+.newsletter div button:hover {
+  background-color: indigo;
 }
