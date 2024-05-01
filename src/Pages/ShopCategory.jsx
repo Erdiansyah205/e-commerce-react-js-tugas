@@ -32,7 +32,9 @@ export const ShopCategory = (props) => {
         Explore More
       </div>
     </div>
-  )
-}
+  );
+} 
+  
 
 export default ShopCategory;
+
