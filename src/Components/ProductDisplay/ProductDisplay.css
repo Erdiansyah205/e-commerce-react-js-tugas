@@ -95,6 +95,10 @@
     cursor: pointer;
 }
 
+.productdisplay-right button:hover {
+    background-color: indigo;
+}
+
 .productdisplay-right-category {
     margin-top: 10px;
 }
